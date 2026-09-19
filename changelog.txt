@@ -1,0 +1,8 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 19. 09. 2026
+  Features:
+    - Initial release.
+    - One startup setting per possible output of the "scrap-recycling" recipe (12 outputs), in percent (0-100).
+    - Defaults match the vanilla values of Factorio 2.0.77 (Space Age).
+    - English and German locale.
