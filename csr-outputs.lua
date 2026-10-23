@@ -1,7 +1,8 @@
--- Liste aller Ergebnisse von "scrap-recycling" samt Vanilla-Chance in Prozent.
--- Quelle: data/space-age/prototypes/recipe.lua (Factorio 2.0.77), Rezept "scrap-recycling".
--- Wird von settings.lua (Defaults) und data-final-fixes.lua (Anwenden) gemeinsam genutzt.
--- Die Reihenfolge entspricht der Reihenfolge im Vanilla-Rezept.
+-- All results of "scrap-recycling" with their vanilla chance in percent.
+-- Source: data/space-age/prototypes/recipe.lua (Factorio 2.1.23), recipe "scrap-recycling"
+-- (width of each shared_probability range; same values as 2.0.77).
+-- Used by settings.lua (defaults) and data-final-fixes.lua (apply).
+-- The order is the order of the vanilla recipe, which is also the order of the shared ranges.
 return {
   { name = "iron-gear-wheel",       vanilla_percent = 20 },
   { name = "solid-fuel",            vanilla_percent = 7  },
