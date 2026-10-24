@@ -7,6 +7,8 @@ Date: 23. 10. 2026
     - While all chances add up to 100% or less, the outputs get consecutive shared ranges like vanilla; the defaults give exactly the vanilla recipe.
     - Above 100% in total every output is rolled independently ("independent_probability"), as in 2.0.
     - The chance of each output is always exactly its setting. The log line names the roll mode.
+  Info:
+    - Added the MIT LICENSE file.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 19. 09. 2026
